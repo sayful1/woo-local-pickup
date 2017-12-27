@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Local Pickup Location\n"
+"POT-Creation-Date: 2017-01-12 10:32-0500\n"
+"Last-Translator: Swetanka Jaiswal\n"
+"Language-Team: Swetanka Jaiswal\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-woo-local-pickup-location-admin.php.php:72
+msgid "Pickup Locations"
+msgstr ""
+msgid "Pickup Location"
+msgstr ""
+msgid "Add New Pickup Location"
+msgstr ""
+msgid "New Pickup Location"
+msgstr ""
+msgid "Edit Pickup Location"
+msgstr ""
+msgid "View Pickup Location"
+msgstr ""
+msgid "All Pickup Locations"
+msgstr ""
+msgid "Search Pickup Location"
+msgstr ""
+msgid "Parent Pickup Location:"
+msgstr ""
+msgid "No Pickup Location found."
+msgstr ""
+msgid "No Pickup Location found."
+msgstr ""
+
+#: admin/class-woo-local-pickup-location-admin.php.php:110
+msgid "Enter pickup address"
+msgstr ""
+
+#: admin/class-woo-local-pickup-location-admin.php:165
+msgid "Pickup Location Details"
+msgstr ""
+
+#: admin/class-woo-local-pickup-location-admin.php.php:177
+msgid ""
+"Not Applicable"
+msgstr ""
+
+#: front/class-woo-local-pickup-location.php:247
+msgid "Pickup Location"
+msgstr ""
+
+#: front/class-woo-local-pickup-location.php:248
+msgid "Select Pickup Location"
+msgstr ""
+
+#: front/class-woo-local-pickup-location.php:294
+msgid "Pickup Location is a required field."
+msgstr ""
+
+#: front/class-woo-local-pickup-location.php:326
+msgid "Pickup Details"
+msgstr ""
+
+#: front/class-woo-local-pickup-location.php:328
+msgid "Not Applicable"
+msgstr ""
