@@ -10,6 +10,6 @@ Original Plugin URI: [https://wordpress.org/plugins/woo-local-pickup/](https://w
 
 # Changelog
 
-#### 2.1.0 (updated on 2017-12-27)
+#### 2.0.0 (updated on 2017-12-27)
 * Fixed - Order email includes location id rather than location address.
 * Fixed - WooCommerce version 3 related error on debug mode.

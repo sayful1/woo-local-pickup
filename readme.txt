@@ -44,5 +44,9 @@ That's it!
 
 == Changelog ==
 
+= 2.0.0 =
+* Fixed - Order email includes location id rather than location address.
+* Fixed - WooCommerce version 3 related error on debug mode.
+
 = 1.0.0 =
 * initial version
