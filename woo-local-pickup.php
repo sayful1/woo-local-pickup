@@ -3,7 +3,7 @@
  * Plugin Name: Woo Local PickUp
  * Plugin URI: https://github.com/sayful1/woo-local-pickup
  * Description: Plugin extends WooCommerce local pickup shipping method to add the Pickup Location in Admin panel and user can select the pickup location in front during checkout.
- * Version: 2.1.0
+ * Version: 2.0.0
  * Author: Sayful Islam
  * Author URI: https://sayfulislam.com
  * Requires at least: 4.4
