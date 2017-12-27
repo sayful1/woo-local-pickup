@@ -1,7 +1,11 @@
 === Woo Local Pickup ===
-
-Contributors: Swetanka Jaiswal
+Contributors: jaisswetanka, sayful
 Tags: woocommcerce, shipping, local pickup, pickup location, checkout fields, ecommerce, e-commerce, wordpress ecommerce
+Requires at least: 4.4
+Tested up to: 4.9
+Stable tag: 2.0.0
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
 Add an option to select Local Pickup location from pre-enterend locations by admin during checkout.
 
@@ -9,8 +13,6 @@ Add an option to select Local Pickup location from pre-enterend locations by adm
 
 Plugin extends woocommerce local pickup shipping method to add the Pickup Location in Admin panel and user can select the pickup location in front during checkout.
 
-
-** Requires WooCommerce 2.x **
 
 == Installation ==
 
